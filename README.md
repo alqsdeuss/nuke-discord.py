@@ -8,4 +8,4 @@
 - Send as many messages as you want on each channel 
 - Send as many messages as you want in DM to each person on the server 
 - Change the banner on the server 
-- Change the server icon```
+- Change the server icon
